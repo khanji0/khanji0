@@ -2,7 +2,7 @@
 
 I am Jibran Ahmed Khan (He/Him).
 🔭 I am double majoring in Data Science and Business Management at Luther College.
-- LinkedIn: [Jibran Ahmed Khan](http://www.linkedin.com/in/JibranAkhan) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](http://www.linkedin.com/in/JibranAkhan)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](http://www.linkedin.com/in/JibranAkhan): [Jibran Ahmed Khan](http://www.linkedin.com/in/JibranAkhan) 
 - 📪: khanji01@luther.edu
 - 🔗: [personal website](https://khanji0.github.io/Portfolio/)
 
