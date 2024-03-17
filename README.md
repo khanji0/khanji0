@@ -2,7 +2,7 @@
 
 I am Jibran Ahmed Khan (He/Him).
 🔭 I am double majoring in Data Science and Business Management at Luther College.
-- LinkedIn: [Jibran Ahmed Khan](http://www.linkedin.com/in/JibranAkhan)
+- LinkedIn: [Jibran Ahmed Khan](http://www.linkedin.com/in/JibranAkhan) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](http://www.linkedin.com/in/JibranAkhan)
 - 📪: khanji01@luther.edu
 - 🔗: [personal website](https://khanji0.github.io/Portfolio/)
 
@@ -13,3 +13,5 @@ I am Jibran Ahmed Khan (He/Him).
 - ✨ I have contributed to several scientific research papers, which can be found on my resume.
 - 👨‍💻 Previously, I worked as an AI research intern at Mayo Clinic.
 - ⚽️ Outside of academics, I enjoy playing soccer and traveling.
+
+
