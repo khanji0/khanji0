@@ -1,11 +1,11 @@
 # Hi there! Welcome to my GitHub page! 👋
 
-I am Jibran Ahmed Khan (He/Him).
-I am double majoring in Data Science and Business Management at Luther College.
+I am Jibran Ahmed Khan, a bachelor student at Luther College studying Data Science and Business Management.
 
-- (http://www.linkedin.com/in/JibranAkhan) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](http://www.linkedin.com/in/JibranAkhan)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](http://www.linkedin.com/in/JibranAkhan)
 - 📪: khanji01@luther.edu
 - 🔗: [Personal Website](https://khanji0.github.io/Portfolio/)
+
 
 
 ---
