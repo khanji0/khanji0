@@ -10,7 +10,6 @@ I am Jibran Ahmed Khan, a bachelor student at Luther College studying Data Scien
 
 ---
 - 👀 I’m interested in harnessing the potential of data to simplify processes and create impactful solutions
-- 😄 I enjoy Machine Learning and building recommendation systems
-- ✨ I have contributed to several scientific research papers, which can be found on my resume
+- 😄 I enjoy Machine Learning and Deep learning
 - 👨‍💻 Previously, I worked as an AI research intern at Mayo Clinic
 - ⚽️ Outside of academics, I enjoy playing soccer and traveling
