@@ -39,7 +39,7 @@ Git • GitHub Actions • Jupyter • VS Code • Linux
 ## 💬 Connect With Me
 
 📫 **Email**: khanji01@luther.edu  
-🔗 [LinkedIn](https://www. linkedin.com/in/jibranakhan/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jibranakhan/)  
 ---
 
 *“Building systems that learn, solve, and scale.”*
